@@ -1,0 +1,3 @@
+AllCops:
+  Exclude:
+    - 'elasticsearch_reader.gemspec'
